@@ -1,3 +1,3 @@
-# Hello guys
+# Hello Wolrd!
 
-This is my first repo, just for testing.
+Testing repo, including typo
